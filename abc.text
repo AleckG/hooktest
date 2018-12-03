@@ -1,5 +1,0 @@
-Initial state.
-
-Server-side pre-receive hooks are an especially powerful compliment to CI because they can prevent developers from pushing code to master, unless the code meets certain conditions.
-
-#Jenkins token: 11d654f1c22bdb813612b589f19720460f
