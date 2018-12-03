@@ -16,7 +16,6 @@ public class Main {
                 newNumber[i] = ')';
                 newNumber[i+1] = ' ';
             }
-
             if (i == 5)
                 newNumber[i] = '-';
             newNumber[i] = (char)numbers[i];
