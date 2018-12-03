@@ -7,6 +7,7 @@ public class Main {
 	    String phoneNumber = createPhoneNumber(numbers);
 	    System.out.println(phoneNumber);
     }
+    
     public static String createPhoneNumber(int[] numbers) {
         char[] newNumber = new char[14];
         newNumber[0] = '(';
